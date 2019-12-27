@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../constants.h">
+   </FileRef>
+   <FileRef
+      location = "group:../HomeworkA4/main.h">
+   </FileRef>
+   <FileRef
+      location = "group:../HomeworkA4/main.c">
+   </FileRef>
+   <FileRef
+      location = "group:main.c">
+   </FileRef>
+   <FileRef
+      location = "self:HomeworkA4.xcodeproj">
+   </FileRef>
+</Workspace>
